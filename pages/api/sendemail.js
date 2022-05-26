@@ -9,7 +9,7 @@ export default async function sendEmail (req, res) {
         secure: true, // true for 465, false for other ports
         auth: {
           user: 'techbae.js@gmail.com', // generated ethereal user
-          pass: 'Techbae1*', // generated ethereal password
+          pass: 'rsbijlgnsjxqytqh', // generated ethereal password
         },
      })
 
