@@ -14,6 +14,7 @@
     "static/development/_ssgManifest.js",
     "static/development/_middlewareManifest.js"
   ],
+  "rootMainFiles": [],
   "pages": {
     "/": [
       "static/chunks/webpack.js",
